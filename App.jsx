@@ -1,0 +1,1 @@
+export default function TappinApp() { return <h1>Tappin full app placeholder</h1>; }
